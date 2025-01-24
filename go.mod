@@ -1,4 +1,6 @@
 module novo-teste-ci
 
-go 1.18
+go 1.21
+
+
 
